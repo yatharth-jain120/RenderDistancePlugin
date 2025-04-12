@@ -1,0 +1,8 @@
+name: RenderDistancePlugin
+version: 1.0
+main: com.yatharth.render.RenderPlugin
+api-version: 1.20
+commands:
+  setrd:
+    description: Set your render distance
+    usage: /setrd <distance>
